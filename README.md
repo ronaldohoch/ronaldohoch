@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, Eu me chamo Ronaldo Hoch</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1>Olá 👋</h1>
+<h3></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldohoch" alt="ronaldohoch" /> </p>
 
