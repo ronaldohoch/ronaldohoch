@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronaldohoch" alt="ronaldohoch" /> </p>
 
-- 🔭 I’m currently working on [Agencie Imóveis](https://www.agencieimoveis.com.br)
+- 🔭 I’m currently working on [Dinamize](https://www.dinamize.com.br)
 
 - 🌱 I’m currently learning **Allways a new thing in javascript**
 
