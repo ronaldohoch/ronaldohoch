@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ronaldopintohoch@gmail.com**
 
-- ⚡ Fun fact **I have 2 cats :)**
+- ⚡ Fun fact **I have 1 cat :)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
