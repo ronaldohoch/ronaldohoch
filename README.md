@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Dinamize](https://www.dinamize.com.br)
 
-- 🌱 I’m currently learning, **Allways a new thing in javascript and Croatian**
+- 🌱 I’m currently learning, **Allways a new thing in javascript And Unreal Engine 5**
 
-- 👯 I’m looking to collaborate on **Open Source Repos!**
+- 👯 I’m looking to collaborate on: **Open Source Repos.**
 
 - 💬 Ask me about **Javascript, Angular, Nodejs, CSS, UI/UX, Animations**
 
